@@ -1,5 +1,5 @@
 # Computer-Vision-Project-NFL-Semerano-Alexa
-Computer Vision Project about NFL 1st and Future challenge about helmet impact detection
+Computer Vision Project based on NFL 1st and Future challenge about helmet impact detection
 
 The player_tracking file contains the testing procedure of our tracking method applied on the helmets data from the dataset csv
 
