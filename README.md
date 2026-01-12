@@ -1,5 +1,6 @@
 # Computer-Vision-Project-NFL-Semerano-Alexa
-Computer Vision Project based on NFL 1st and Future challenge about helmet impact detection: https://www.kaggle.com/competitions/nfl-impact-detection/overview
+Computer Vision Project based on NFL 1st and Future challenge about helmet impact detection: 
+https://www.kaggle.com/competitions/nfl-impact-detection/overview
 
 The player_tracking file contains the testing procedure of our tracking method applied on the helmets data from the dataset csv
 
